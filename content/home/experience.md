@@ -61,7 +61,7 @@ experience:
     location: Oxford
     date_start: '2015-10-01'
     date_end: '2016-08-01'
-    description: Conducted thesis research under supervision of Professor Jo Dunkley. Worked on [PySM development]({{< ref "/publication/example/index.md" >}}).
+    description: Conducted thesis research under supervision of Professor Jo Dunkley. Worked on [PySM development](/publication/example/index.md).
 
 design:
   columns: '2'
