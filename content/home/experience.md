@@ -43,7 +43,8 @@ experience:
     location: New Jersey
     date_start: '2017-09-01'
     date_end: '2019-06-23'
-    description: Conducted thesis research under supervision of Professor Jo Dunkley. Projects included: 
+    description: |2-
+        Conducted thesis research under supervision of Professor Jo Dunkley. Projects included: 
     
         * Using *Planck* data to estimate the foreground contamination of the *ACT* survey. 
         * Writing a pixel-fitting likelihood code to forecast the sensitivity of *Simons Observatory* to spatial variation of foreground frequency dependence. 
