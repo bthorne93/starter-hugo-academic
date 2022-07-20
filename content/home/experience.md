@@ -56,7 +56,7 @@ experience:
     location: Tokyo
     date_start: '2016-08-01'
     date_end: '2017-09-01'
-    description: Conducted thesis research under supervision of Professor Nobuhiko Katayama and Professor Eiichiro Komatsu. I worked mainly on deriving the observational signatures of an axion-SU(2) model for inflation, leading to a [paper](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers) on the topic.
+    description: Conducted thesis research under supervision of Professor {{< icon name="terminal" pack="fas" >}} Nobuhiko Katayama and Professor Eiichiro Komatsu. I worked mainly on deriving the observational signatures of an axion-SU(2) model for inflation, leading to a [paper](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers) on the topic.
     
   - title: Graduate Student (PhD)
     company: University of Oxford
