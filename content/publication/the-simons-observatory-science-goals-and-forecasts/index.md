@@ -1,7 +1,7 @@
 ---
 title: The Simons Observatory Science goals and forecasts
 publication_types:
-  - "0"
+  - "2"
 authors:
   - The Simons Observatory Collaboration
 doi: https://doi.org/10.1088/1475-7516/2019/02/056
