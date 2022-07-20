@@ -1,7 +1,7 @@
 ---
 title: A Generative Model of Galactic Dust Emission Using Variational Inference
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - Lloyd Knox
