@@ -2,12 +2,17 @@
 slides: example
 url_pdf: ""
 title: The Python Sky Model
-subtitle: simulations of the Galactic Microwave Sky
+subtitle: Simulations of the Galactic Microwave Sky
 date: 2016-04-27T00:00:00.000Z
-summary: "Python Sky Model for simulations of the Galactic microwave sky. "
+summary: "Extensible Python package for simulations of the microwave Galactic sky. "
 url_video: ""
 featured: true
 tags:
+  - Python
+  - Simulations
+  - Cosmology
+categories:
+  - Python
   - Simulations
   - Cosmology
 external_link: ""
@@ -16,15 +21,15 @@ links:
   - url: https://github.com/galsci/pysm
     icon_pack: fab
     icon: github
-    name: GitHub Repo
+    name: Project
   - url: https://doi.org/10.1093/mnras/stx949
     name: Original Paper
     icon_pack: ai
     icon: doi
-  - name: https://doi.org/10.21105/joss.03783
+  - name: Software Paper
     icon_pack: ai
     icon: doi
-    url: Software Paper
+    url: https://doi.org/10.21105/joss.03783
 image:
   caption: ""
   focal_point: Smart
