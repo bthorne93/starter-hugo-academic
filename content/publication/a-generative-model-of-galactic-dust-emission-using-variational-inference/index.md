@@ -3,7 +3,7 @@ title: A Generative Model of Galactic Dust Emission Using Variational Inference
 publication_types:
   - "0"
 authors:
-  - Benjamin Thorne
+  - admin
   - Lloyd Knox
   - Karhtik Prabhu
 author_notes: []
