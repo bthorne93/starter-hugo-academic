@@ -59,7 +59,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Oxford
-    date_start: '2015-010-01'
+    date_start: '2015-10-01'
     date_end: '2016-08-01'
     description: Conducted thesis research under supervision of Professor Jo Dunkley.
 
