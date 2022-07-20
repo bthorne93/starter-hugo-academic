@@ -57,7 +57,7 @@ experience:
   - title: Graduate Student
     company: University of Oxford
     company_url: ''
-    company_logo: org-x
+    company_logo: university-of-oxford-logo
     location: Oxford
     date_start: '2015-10-01'
     date_end: '2016-08-01'
