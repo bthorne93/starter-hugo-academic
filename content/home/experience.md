@@ -43,7 +43,10 @@ experience:
     location: New Jersey
     date_start: '2017-09-01'
     date_end: '2019-06-23'
-    description: Conducted thesis research under supervision of Professor Jo Dunkley.
+    description: Conducted thesis research under supervision of Professor Jo Dunkley. Projects included: 
+    
+    * Using *Planck* data to estimate the foreground contamination of the *ACT* survey. 
+    * Writing a pixel-fitting likelihood code to forecast the sensitivity of *Simons Observatory* to spatial variation of foreground frequency dependence. 
     
   - title: Visiting Doctoral Researcher
     company: University of Tokyo
@@ -52,7 +55,7 @@ experience:
     location: Tokyo
     date_start: '2016-08-01'
     date_end: '2017-09-01'
-    description: Conducted thesis research under supervision of Professor Nobuhiko Katayama and Professor Eiichiro Komatsu.
+    description: Conducted thesis research under supervision of Professor Nobuhiko Katayama and Professor Eiichiro Komatsu. I worked mainly on deriving the observational signatures of an axion-SU(2) model for inflation, leading to a [paper](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers) on the topic.
     
   - title: Graduate Student (PhD)
     company: University of Oxford
@@ -61,7 +64,7 @@ experience:
     location: Oxford
     date_start: '2015-10-01'
     date_end: '2016-08-01'
-    description: Conducted thesis research under supervision of Professor Jo Dunkley. Worked on [PySM development](/publication/example). [grid_modules]({{< ref "publication/example" >}}).
+    description: Conducted thesis research under supervision of Professor Jo Dunkley. I worked primarily on the original [PySM](/publication/example) code.
 
 design:
   columns: '2'
