@@ -39,7 +39,7 @@ experience:
   - title: Graduate Student
     company: Princeton University
     company_url: ''
-    company_logo: org-x
+    company_logo: princeton
     location: New Jersey
     date_start: '2017-09-01'
     date_end: '2019-06-23'
