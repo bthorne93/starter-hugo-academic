@@ -48,7 +48,7 @@ experience:
   - title: Graduate Student
     company: University of Tokyo
     company_url: ''
-    company_logo: org-x
+    company_logo: the-university-of-tokyo-logo-vector
     location: Tokyo
     date_start: '2016-08-01'
     date_end: '2017-09-01'
