@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD in Astrophysics
       institution: University of Oxford
-      year: 2002
+      year: 2019
     - course: MPhys with first class honors
       institution: University of Oxford
       year: 2015
