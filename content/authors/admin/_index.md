@@ -33,7 +33,7 @@ organizations:
   - name: South Pole Telescope
     url: https://astro.uchicago.edu/research/spt.php
   - name: BICEP / Keck
-  - url: http://bicepkeck.org
+    url: http://bicepkeck.org
 education:
   courses:
     - course: PhD in Astrophysics
