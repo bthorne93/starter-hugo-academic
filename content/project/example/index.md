@@ -2,14 +2,16 @@
 slides: example
 url_pdf: ""
 title: The Python Sky Model
+subtitle: simulations of the Galactic Microwave Sky
 date: 2016-04-27T00:00:00.000Z
 summary: "Python Sky Model for simulations of the Galactic microwave sky. "
 url_video: ""
+featured: true
 tags:
-  - Deep Learning
+  - Simulations
+  - Cosmology
 external_link: ""
 url_slides: ""
-subtitle: simulations of the Galactic Microwave Sky
 links:
   - url: https://github.com/galsci/pysm
     icon_pack: fab
