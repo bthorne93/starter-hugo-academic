@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Graduate Student
+  - title: Visiting Doctoral Researcher
     company: Princeton University
     company_url: ''
     company_logo: princeton
@@ -45,7 +45,7 @@ experience:
     date_end: '2019-06-23'
     description: Conducted thesis research under supervision of Professor Jo Dunkley.
     
-  - title: Graduate Student
+  - title: Visiting Doctoral Researcher
     company: University of Tokyo
     company_url: ''
     company_logo: the-university-of-tokyo-logo-vector
@@ -54,7 +54,7 @@ experience:
     date_end: '2017-09-01'
     description: Conducted thesis research under supervision of Professor Nobuhiko Katayama and Professor Eiichiro Komatsu.
     
-  - title: Graduate Student
+  - title: Graduate Student (PhD)
     company: University of Oxford
     company_url: ''
     company_logo: university-of-oxford-logo
