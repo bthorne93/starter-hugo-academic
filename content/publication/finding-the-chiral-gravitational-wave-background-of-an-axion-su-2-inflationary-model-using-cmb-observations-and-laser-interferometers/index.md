@@ -2,7 +2,7 @@
 title: Finding the chiral gravitational wave background of an axion-SU(2)
   inflationary model using CMB observations and laser interferometers
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - Tomohiro Fujita
