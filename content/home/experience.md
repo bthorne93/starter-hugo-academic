@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 25
 
 title: Experience
 subtitle:
@@ -36,14 +36,32 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Student
+    company: Princeton University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: New Jersey
+    date_start: '2017-09-01'
+    date_end: '2019-06-23'
+    description: Conducted thesis research under supervision of Professor Jo Dunkley.
+    
+  - title: Graduate Student
+    company: University of Tokyo
+    company_url: ''
+    company_logo: org-x
+    location: Tokyo
+    date_start: '2016-08-01'
+    date_end: '2017-09-01'
+    description: Conducted thesis research under supervision of Professor Nobuhiko Katayama and Professor Eiichiro Komatsu.
+    
+  - title: Graduate Student
+    company: University of Oxford
+    company_url: ''
+    company_logo: org-x
+    location: Oxford
+    date_start: '2015-010-01'
+    date_end: '2016-08-01'
+    description: Conducted thesis research under supervision of Professor Jo Dunkley.
 
 design:
   columns: '2'
