@@ -1,7 +1,9 @@
 ---
 title: "CMB-S4: Forecasting Constraints on Primordial Gravitational Waves"
 publication_types:
-  - "0"
+  - "2"
+authors:
+  - The CMB S4 Collaboration
 doi: https://doi.org/10.3847/1538-4357/ac1596
 publication: "*The Astrophysical Journal*"
 publication_short: In *ApJ*
