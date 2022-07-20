@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Research Scholar
     company: University of California, Davis
     company_url: ''
-    company_logo: uc_davis_logo_blue
+    company_logo: ucdavis_logo_pms_aggie-blue
     location: California
     date_start: '2019-07-01'
     date_end: ''
