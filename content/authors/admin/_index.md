@@ -47,4 +47,4 @@ email: ""
 ---
 My name is Benjamin Thorne, I am a computational astrophysicist at the University of California, Davis. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/curriculumvitae.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/curriculumvitae.pdf" "newtab" >}}resumé{{< /staticref >}}.
