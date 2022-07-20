@@ -41,6 +41,8 @@ abstract: A detection of B-mode polarization of the Cosmic Microwave Background
   space-based laser interferometers.
 draft: false
 featured: false
+tags:
+  - Analysis
 image:
   filename: featured
   focal_point: Smart
