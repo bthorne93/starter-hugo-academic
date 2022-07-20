@@ -2,8 +2,6 @@
 role: Postdoc in Astrophysics
 avatar_filename: profile_2-cropped.jpg
 bio: I am a computational astrophysicist at the University of California, Davis.
-  I am interested in applying modern machine learning techniaues and advanced
-  statistical methods to large astrophysical datasets.
 interests:
   - Astrophysics
   - Machine Learning
@@ -47,6 +45,6 @@ highlight_name: true
 title: Benjamin Thorne
 email: ""
 ---
-My name is Benjamin Thorne, I am a computational astrophysicist at the University of California, Davis. 
+My name is Benjamin Thorne, I am a computational astrophysicist at the University of California, Davis.  I am interested in applying modern machine learning techniques, and advanced statistical methods, to large astrophysical datasets.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/curriculumvitae.pdf" "newtab" >}}resumé{{< /staticref >}}.
