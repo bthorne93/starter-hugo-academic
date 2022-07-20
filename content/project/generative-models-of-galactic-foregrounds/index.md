@@ -17,7 +17,7 @@ links:
   - url: https://github.com/bthorne93/DustVAEder
     name: Project
     icon_pack: fab
-    icon: GitHub
+    icon: github
   - url: https://doi.org/10.1093/mnras/stab1011
     name: Paper
     icon_pack: ai
