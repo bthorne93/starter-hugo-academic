@@ -1,7 +1,7 @@
 ---
 title: Simulated forecasts for primordial B-mode searches in ground-based experiments
 publication_types:
-  - "0"
+  - "2"
 authors:
   - David Alonso
   - Joanna Dunkley
