@@ -6,6 +6,7 @@ authors:
   - Nicoletta Krachmalnicoff
   - Julian Borrill
 author_notes: []
+doi: https://doi.org/10.21105/joss.03783
 publication_short: In *JOSS*
 abstract: >-
   The Python Sky Model (PySM) is a Python package used by Cosmic Microwave
@@ -19,7 +20,10 @@ abstract: >-
 
   At this stage we strive to maintain full compatibility with PySM 2, therefore we implement the exact same astrophysical emission models with the same naming scheme. In the extensive test suite we compare the output of each PySM 3 model with the results obtained by PySM 2.
 tags: []
-projects: []
+categories:
+  - Python
+projects:
+  - PySM
 slides: ""
 url_pdf: ""
 publication_types:
@@ -37,8 +41,7 @@ publication: Journal of Open Source Software
 featured: true
 date: 2022-07-20T18:20:14.306Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.21105/joss.03783
 ---
