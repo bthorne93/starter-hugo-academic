@@ -1,5 +1,5 @@
 ---
-role: Postdoctoral Research Scholar in Astrophysics
+role: Postdoc in Astrophysics
 avatar_filename: profile_2-cropped.jpg
 bio: I am a computational astrophysicist at the University of California, Davis.
   I am interested in applying modern machine learning techniaues and advanced
@@ -32,6 +32,8 @@ organizations:
     url: https://physics.ucdavis.edu
   - name: South Pole Telescope
     url: https://astro.uchicago.edu/research/spt.php
+  - name: BICEP / Keck
+  - url: http://bicepkeck.org
 education:
   courses:
     - course: PhD in Astrophysics
