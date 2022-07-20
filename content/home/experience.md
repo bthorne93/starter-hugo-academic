@@ -45,8 +45,8 @@ experience:
     date_end: '2019-06-23'
     description: Conducted thesis research under supervision of Professor Jo Dunkley. Projects included: 
     
-    * Using *Planck* data to estimate the foreground contamination of the *ACT* survey. 
-    * Writing a pixel-fitting likelihood code to forecast the sensitivity of *Simons Observatory* to spatial variation of foreground frequency dependence. 
+        * Using *Planck* data to estimate the foreground contamination of the *ACT* survey. 
+        * Writing a pixel-fitting likelihood code to forecast the sensitivity of *Simons Observatory* to spatial variation of foreground frequency dependence. 
     
   - title: Visiting Doctoral Researcher
     company: University of Tokyo
