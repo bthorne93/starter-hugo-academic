@@ -10,7 +10,7 @@ headless: false
 weight: 40
 
 title: Selected Publications
-subtitle: For a complete list please see my [Google scholar](https://scholar.google.com/citations?user=tfNPd34AAAAJ&hl=en) link in the menu.
+subtitle: For a complete list please see my [Google scholar profile](https://scholar.google.com/citations?user=tfNPd34AAAAJ&hl=en).
 
 content:
   # Filter on criteria
