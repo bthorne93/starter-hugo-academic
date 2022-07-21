@@ -1,0 +1,44 @@
+---
+title: "The Atacama Cosmology Telescope: DR4 maps and cosmological parameters"
+publication_types:
+  - "2"
+authors:
+  - Simone Aiola
+  - ...
+  - admin
+  - ...
+doi: https://doi.org/10.1088/1475-7516/2020/12/047
+publication: "*Journal of Cosmology and Astroparticle Physics*"
+publication_short: In *JCAP*
+abstract: "We present new arcminute-resolution maps of the Cosmic Microwave
+  Background temperature and polarization anisotropy from the Atacama Cosmology
+  Telescope, using data taken from 2013-2016 at 98 and 150 GHz. The maps cover
+  more than 17,000 ${\\rm deg}^2$, the deepest 600 ${\\rm deg}^2$ with noise
+  levels below 10 ${\\rm \\mu K~arcmin}$. We use the power spectrum derived from
+  almost 6,000 ${\\rm deg}^2$ of these maps to constrain cosmology. The ACT data
+  enable a measurement of the angular scale of features in both the
+  divergence-like polarization and the temperature anisotropy, tracing both the
+  velocity and density at last-scattering. From these one can derive the
+  distance to the last-scattering surface and thus infer the local expansion
+  rate, $H_0$. By combining ACT data with large-scale information from WMAP we
+  measure $H_0=67.6\\pm 1.1 {\\rm km/s/Mpc}$, at 68% confidence, in excellent
+  agreement with the independently-measured Planck satellite estimate (from ACT
+  alone we find $H_0=67.9 \\pm 1.5 {\\rm km/s/Mpc}$). The $\\Lambda CDM$ model
+  provides a good fit to the ACT data, and we find no evidence for deviations:
+  both the spatial curvature, and the departure from the standard lensing signal
+  in the spectrum, are zero to within $1\\sigma$; the number of relativistic
+  species, the primordial Helium fraction, and the running of the spectral index
+  are consistent with ΛCDM predictions to within $1.5−2.2 \\sigma$. We compare
+  ACT, WMAP, and Planck at the parameter level and find good consistency; we
+  investigate how the constraints on the correlated spectral index and baryon
+  density parameters readjust when adding CMB large-scale information that ACT
+  does not measure. The DR4 products presented here will be publicly released on
+  the NASA Legacy Archive for Microwave Background Data Analysis."
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2022-07-21T19:38:13.590Z
+---
