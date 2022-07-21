@@ -6,9 +6,7 @@ publication_types:
   - "2"
 authors:
   - Steve Choi
-  - ...
-  - admin
-  - ...
+  - et al. (inc. Benjamin Thorne)
 doi: https://doi.org/10.1088/1475-7516/2020/12/045
 publication: "*Journal of Cosmology and Astroparticle Physics*"
 publication_short: In *JCAP*
