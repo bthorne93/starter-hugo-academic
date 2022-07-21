@@ -15,7 +15,7 @@ publication: "*Journal of Cosmology and Astroparticle Physics*"
 publication_short: In *JCAP*
 abstract: We present the temperature and polarization angular power spectra of
   the CMB measured by the Atacama Cosmology Telescope (ACT) from $5400 {\rm
-  deg}^2$ of the 2013-2016 survey, which covers >15000 ${\rm deg^2}$ at 98 and
+  deg}^2$ of the 2013-2016 survey, which covers >15000 ${\rm deg}^2$ at 98 and
   150 GHz. For this analysis we adopt a blinding strategy to help avoid
   confirmation bias and, related to this, show numerous checks for systematic
   error done before unblinding. Using the likelihood for the cosmological
