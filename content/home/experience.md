@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Research Scholar
+  - title: Postdoctoral Research Scholar, Astrophysics
     company: University of California, Davis
     company_url: ''
     company_logo: uc-davis
@@ -35,7 +35,7 @@ experience:
         * Developing a Bayesian pipeline in Julia for the analysis of CMB data. 
         * Building a variational autoencoder model of Galactic foreground emission as a form of novel foreground simulation.
 
-  - title: Visiting Doctoral Researcher
+  - title: Visiting Doctoral Researcher, Astrophysics
     company: Princeton University
     company_url: ''
     company_logo: princeton
@@ -48,7 +48,7 @@ experience:
         * Using *Planck* data to estimate the foreground contamination of the *ACT* survey. 
         * Writing a pixel-fitting likelihood code to forecast the sensitivity of *Simons Observatory* to spatial variation of foreground frequency dependence. 
     
-  - title: Visiting Doctoral Researcher
+  - title: Visiting Doctoral Researcher, Astrophysics
     company: University of Tokyo
     company_url: ''
     company_logo: the-university-of-tokyo-logo-vector
@@ -57,7 +57,7 @@ experience:
     date_end: '2017-09-01'
     description: Conducted thesis research under the supervision of Professors Nobuhiko Katayama and Eiichiro Komatsu. I worked mainly on deriving the observational signatures of an axion-SU(2) model for inflation, leading to a [paper](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers) on the topic.
     
-  - title: Graduate Student (PhD)
+  - title: Graduate Student, Astrophysics (PhD)
     company: University of Oxford
     company_url: ''
     company_logo: university-of-oxford-logo
