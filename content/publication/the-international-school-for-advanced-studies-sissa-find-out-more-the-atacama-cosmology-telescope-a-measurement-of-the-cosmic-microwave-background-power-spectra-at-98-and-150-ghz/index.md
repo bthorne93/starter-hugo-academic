@@ -5,7 +5,7 @@ title: " The International School for Advanced Studies (SISSA), find out
 publication_types:
   - "2"
 authors:
-  - Choi
+  - Steve Choi
   - ...
   - admin
   - ...
