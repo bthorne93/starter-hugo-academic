@@ -3,7 +3,6 @@ title: " The International School for Advanced Studies (SISSA), find out
   more     The Atacama Cosmology Telescope: a measurement of the Cosmic
   Microwave Background power spectra at 98 and 150 GHz"
 publication_types:
-  - "0"
   - "2"
 authors:
   - Choi
@@ -37,5 +36,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-21T19:32:56.404Z
+date: 2020-12-30T20:32:56.404Z
 ---
