@@ -9,8 +9,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 40
 
-title: Publications
-subtitle: ''
+title: Selected Publications
+subtitle: For a complete list please see my [Google scholar](https://scholar.google.com/citations?user=tfNPd34AAAAJ&hl=en) link in the menu.
 
 content:
   # Filter on criteria
