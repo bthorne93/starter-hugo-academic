@@ -7,6 +7,8 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
+active: false
+
 # Optional header image (relative to `assets/media/` folder).
 header:
   caption: ""
