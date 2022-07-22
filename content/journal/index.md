@@ -1,5 +1,7 @@
 ---
+# Homepage
 type: widget_page
-# Optional header image (relative to `assets/media/` folder).
+
+# Homepage is headless, other widget pages are not.
 headless: true
 ---
