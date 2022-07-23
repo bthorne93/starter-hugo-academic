@@ -5,7 +5,7 @@ summary: "Extensible Python package for simulations of the microwave Galactic sk
 url_video: ""
 title: The Python Sky Model
 subtitle: Simulations of the Galactic Microwave Sky
-featured: true
+featured: false
 tags:
   - Python
   - Simulations
