@@ -1,5 +1,4 @@
 ---
-slides: example
 url_pdf: ""
 date: 2016-04-27T00:00:00.000Z
 summary: "Extensible Python package for simulations of the microwave Galactic sky. "
