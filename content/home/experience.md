@@ -34,7 +34,7 @@ experience:
         
         * Developed a Bayesian pipeline in Julia for the analysis *SPT* and *BK* data. 
         * Built a variational autoencoder model of Galactic foregrounds to capture non-Gaussian behavior, using Tensorflow [[1]](publication/a-generative-model-of-galactic-dust-emission-using-variational-inference).
-        * Developed `v-3.0` of [`PySM`](project/example) in collaboration with the Pan-Experiment Galactic science group. Targeted development for performance in HPC environments, and implemented new foreground models using data released since `v-2.0` [[2]](publication/the-python-sky-model-3-software).
+        * Developed `v3.0` of [`PySM`](project/example) in collaboration with the Pan-Experiment Galactic science group. Targeted development for performance in HPC environments, and implemented new foreground models using data released since 2016 `v2.0` [[2]](publication/the-python-sky-model-3-software).
 
   - title: Visiting Doctoral Researcher, Astrophysics
     company: Princeton University
@@ -56,7 +56,7 @@ experience:
     location: Tokyo
     date_start: '2016-08-01'
     date_end: '2017-09-01'
-    description: Conducted thesis research under the supervision of Professors Nobuhiko Katayama and Eiichiro Komatsu. I worked mainly on deriving the observational signatures of an axion-SU(2) model for inflation [[6]](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers).
+    description: Conducted thesis research under the supervision of Professors Nobuhiko Katayama and Eiichiro Komatsu. I forecasted how we may use space-based laser interferometers and CMB experiments to constrain parity-breaking models of inflation [[6]](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers).
     
   - title: Graduate Student, Astrophysics (PhD)
     company: University of Oxford
@@ -65,7 +65,7 @@ experience:
     location: Oxford
     date_start: '2015-10-01'
     date_end: '2016-08-01'
-    description: Conducted thesis research under the supervision of Professor Jo Dunkley. I worked primarily on developing the codebase and modeling for the original [PySM](project/example) code [[7]](publication/the-python-sky-model-software-for-simulating-the-galactic-microwave-sky), as well as its application in a forecasting project for component separation in future CMB experiments [[8]](publication/simulated-forecasts-for-primordial-b-mode-searches-in-ground-based-experiments).
+    description: Conducted thesis research under the supervision of Professor Jo Dunkley. I worked primarily on developing the codebase and modeling for the original [`PySM`](project/example) code [[7]](publication/the-python-sky-model-software-for-simulating-the-galactic-microwave-sky), as well as its application in a forecasting project for component separation in future CMB experiments [[8]](publication/simulated-forecasts-for-primordial-b-mode-searches-in-ground-based-experiments).
 
 design:
   columns: '2'
