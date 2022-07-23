@@ -30,10 +30,10 @@ experience:
     date_start: '2019-07-01'
     date_end: ''
     description: |2-
-        I am currently a postdoc in Professor Lloyd Knox's group at UC Davis. I am a member of the South Pole Telescope (SPT) and BICEP / Keck (BK) collaborations. Some of my projects have been:
+        I am currently a postdoc in Professor Lloyd Knox's group at UC Davis. I am a member of the *South Pole Telescope* (*SPT*) and *BICEP / Keck* (*BK*) collaborations. Some of my projects have been:
         
-        * Developing a Bayesian pipeline in Julia for the analysis of CMB data. 
-        * Building a variational autoencoder model of Galactic foreground emission as a form of novel foreground simulation.
+        * Developing a Bayesian pipeline in Julia for the analysis *SPT* and *BK* data. 
+        * Building a variational autoencoder model of Galactic foreground emission as a form of novel foreground simulation [[1]](publication/a-generative-model-of-galactic-dust-emission-using-variational-inference).
 
   - title: Visiting Doctoral Researcher, Astrophysics
     company: Princeton University
@@ -45,8 +45,8 @@ experience:
     description: |2-
         Conducted thesis research under the supervision of Professor Jo Dunkley. Projects included: 
     
-        * Using *Planck* data to estimate the foreground contamination of the *ACT* survey. 
-        * Writing a pixel-fitting likelihood code to forecast the sensitivity of *Simons Observatory* to spatial variation of foreground frequency dependence. 
+        * Using *Planck* data to estimate the foreground contamination of the *ACT* survey, contributing to the analysis presented in these papers [[1]](publication/the-atacama-cosmology-telescope-dr4-maps-and-cosmological-parameters) [[2]](publication/the-international-school-for-advanced-studies-sissa-find-out-more-the-atacama-cosmology-telescope-a-measurement-of-the-cosmic-microwave-background-power-spectra-at-98-and-150-ghz).   
+        * Writing a pixel-fitting likelihood code to forecast the sensitivity of *Simons Observatory* to spatial variation of foreground frequency dependence, contributing to this *SO* collaboration [paper](publication/the-simons-observatory-science-goals-and-forecasts).
     
   - title: Visiting Doctoral Researcher, Astrophysics
     company: University of Tokyo
