@@ -34,7 +34,7 @@ experience:
         
         * Developing a Bayesian pipeline in Julia for the analysis *SPT* and *BK* data. 
         * Building a variational autoencoder model of Galactic foreground emission as a form of novel foreground simulation [[1]](publication/a-generative-model-of-galactic-dust-emission-using-variational-inference).
-        * Continuing development of PySM code [[2]](publication/the-python-sky-model-3-software).
+        * Continuing development of [`PySM`](project/example) code [[2]](publication/the-python-sky-model-3-software).
 
   - title: Visiting Doctoral Researcher, Astrophysics
     company: Princeton University
@@ -47,7 +47,7 @@ experience:
         Conducted thesis research under the supervision of Professor Jo Dunkley. Projects included: 
     
         * Using *Planck* data to estimate the foreground contamination of the *ACT* survey, contributing to the analysis presented in these papers [[3](publication/the-atacama-cosmology-telescope-dr4-maps-and-cosmological-parameters), [4](publication/the-international-school-for-advanced-studies-sissa-find-out-more-the-atacama-cosmology-telescope-a-measurement-of-the-cosmic-microwave-background-power-spectra-at-98-and-150-ghz)].   
-        * Writing a pixel-fitting likelihood code to forecast the sensitivity of the *Simons Observatory* to spatial variation of foreground frequency dependence [5](publication/the-simons-observatory-science-goals-and-forecasts).
+        * Writing a pixel-fitting likelihood code to forecast the sensitivity of the *Simons Observatory* to spatial variation of foreground frequency dependence [[5]](publication/the-simons-observatory-science-goals-and-forecasts).
     
   - title: Visiting Doctoral Researcher, Astrophysics
     company: University of Tokyo
@@ -56,7 +56,7 @@ experience:
     location: Tokyo
     date_start: '2016-08-01'
     date_end: '2017-09-01'
-    description: Conducted thesis research under the supervision of Professors Nobuhiko Katayama and Eiichiro Komatsu. I worked mainly on deriving the observational signatures of an axion-SU(2) model for inflation [6](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers).
+    description: Conducted thesis research under the supervision of Professors Nobuhiko Katayama and Eiichiro Komatsu. I worked mainly on deriving the observational signatures of an axion-SU(2) model for inflation [[6]](/publication/finding-the-chiral-gravitational-wave-background-of-an-axion-su-2-inflationary-model-using-cmb-observations-and-laser-interferometers).
     
   - title: Graduate Student, Astrophysics (PhD)
     company: University of Oxford
