@@ -32,9 +32,9 @@ experience:
     description: |2-
         I am currently a postdoc in Professor Lloyd Knox's group at UC Davis. I am a member of the *South Pole Telescope* (*SPT*) and *BICEP / Keck* (*BK*) collaborations. Some of my projects have been:
         
-        * Developing a Bayesian pipeline in Julia for the analysis *SPT* and *BK* data. 
-        * Building a variational autoencoder model of Galactic foreground emission as a form of novel foreground simulation [[1]](publication/a-generative-model-of-galactic-dust-emission-using-variational-inference).
-        * Continuing development of [`PySM`](project/example) code [[2]](publication/the-python-sky-model-3-software).
+        * Developed a Bayesian pipeline in Julia for the analysis *SPT* and *BK* data. 
+        * Built a variational autoencoder model of Galactic foregrounds to capture non-Gaussian behavior, using Tensorflow [[1]](publication/a-generative-model-of-galactic-dust-emission-using-variational-inference).
+        * Developed `v-3.0` of [`PySM`](project/example) in collaboration with the Pan-Experiment Galactic science group. Targeted development for performance in HPC environments, and implemented new foreground models using data released since `v-2.0` [[2]](publication/the-python-sky-model-3-software).
 
   - title: Visiting Doctoral Researcher, Astrophysics
     company: Princeton University
@@ -44,10 +44,10 @@ experience:
     date_start: '2017-09-01'
     date_end: '2019-06-23'
     description: |2-
-        Conducted thesis research under the supervision of Professor Jo Dunkley. Projects included: 
+        Conducted thesis research under the supervision of Professor Jo Dunkley. Some of my projects were: 
     
-        * Using *Planck* data to estimate the foreground contamination of the *ACT* survey, contributing to the analysis presented in these papers [[3](publication/the-atacama-cosmology-telescope-dr4-maps-and-cosmological-parameters), [4](publication/the-international-school-for-advanced-studies-sissa-find-out-more-the-atacama-cosmology-telescope-a-measurement-of-the-cosmic-microwave-background-power-spectra-at-98-and-150-ghz)].   
-        * Writing a pixel-fitting likelihood code to forecast the sensitivity of the *Simons Observatory* to spatial variation of foreground frequency dependence [[5]](publication/the-simons-observatory-science-goals-and-forecasts).
+        * Used *Planck* data to estimate the foreground contamination of the *ACT* survey. Contributed this to the analysis presented in these papers [[3](publication/the-atacama-cosmology-telescope-dr4-maps-and-cosmological-parameters), [4](publication/the-international-school-for-advanced-studies-sissa-find-out-more-the-atacama-cosmology-telescope-a-measurement-of-the-cosmic-microwave-background-power-spectra-at-98-and-150-ghz)].   
+        * Wrote a pixel-fitting likelihood code to forecast the sensitivity of the *Simons Observatory* to spatial variation of foreground frequency dependence [[5]](publication/the-simons-observatory-science-goals-and-forecasts).
     
   - title: Visiting Doctoral Researcher, Astrophysics
     company: University of Tokyo
