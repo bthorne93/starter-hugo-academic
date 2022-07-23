@@ -34,6 +34,7 @@ experience:
         
         * Developing a Bayesian pipeline in Julia for the analysis *SPT* and *BK* data. 
         * Building a variational autoencoder model of Galactic foreground emission as a form of novel foreground simulation [[1]](publication/a-generative-model-of-galactic-dust-emission-using-variational-inference).
+        * Continuing development of PySM code [[1]](publication/the-python-sky-model-3-software).
 
   - title: Visiting Doctoral Researcher, Astrophysics
     company: Princeton University
@@ -64,7 +65,7 @@ experience:
     location: Oxford
     date_start: '2015-10-01'
     date_end: '2016-08-01'
-    description: Conducted thesis research under the supervision of Professor Jo Dunkley. I worked primarily on the original [PySM](/publication/example) code.
+    description: Conducted thesis research under the supervision of Professor Jo Dunkley. I worked primarily on the original [PySM](project/example) code [[1]](publication/the-python-sky-model-software-for-simulating-the-galactic-microwave-sky), [[2]].
 
 design:
   columns: '2'
