@@ -31,4 +31,4 @@ image:
 
 An example of semantic interpolation is below 
 
-![Semantic interpolation](animation-2.gif)
+![Semantic interpolation](animation-10.gif)
