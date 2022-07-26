@@ -28,6 +28,20 @@ image:
   preview_only: false
 ---
 
+# Summary 
+
+Emission from the interstellar medium can be a significant contaminant of measurements of the intensity and polarization of thecosmic microwave background (CMB). For planning CMB observations, and for optimizing foreground-cleaning algorithms,a description of the statistical properties of such emission can be helpful. Here, we examine a machine learning approach toinferring the statistical properties of dust from observational data. In particular, we apply a type of neural network called avariational autoencoder (VAE) to maps of the intensity of emission from interstellar dust as inferred fromPlancksky maps anddemonstrate its ability to (i) simulate new samples with similar summary statistics as the training set, (ii) provide fits to emission maps withheld from the training set, and (iii) produce constrained realizations. We find VAEs are easier to train than anotherpopular architecture: that of generative adversarial networks, and are better suited for use in Bayesian inference.
+
+## Training
+
+Our fundamental goal here is to take a set of observations of interstellar dust, $\{ x_1, x_2, \dots, x_N \} \in \mathbb{R}^n$, and infer from them an underlying distribution, $p(x)$, from which they may have been drawn.
+
+Kullback-Leibler divergence: 
+
+$$
+\mathbb D_{\rm KL}(q_\phi || p_\theta) = \mathbb{E}_{q_\phi(\mathbf z | \mathbf x)} \left[\log \left[\frac{\log q_\phi(\mathbf z | \mathbf x)}{\log p_\theta(\mathbf z|\mathbf x)} \right] \right] 
+$$
+
 ## Semantic Interpolation 
 
 As a demonstration that our variational autoencoder has learned a compact embedding of the foreground images, we can interpolate between latent embeddings of different images $\mathbf{z}_1 \rightarrow \mathbf{z}_2$. 
