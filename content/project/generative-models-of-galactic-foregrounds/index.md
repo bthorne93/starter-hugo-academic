@@ -27,3 +27,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
+
+An example of semantic interpolation is below 
+
+![Semantic interpolation](animation-2.gif)
