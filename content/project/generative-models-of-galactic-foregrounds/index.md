@@ -1,5 +1,5 @@
 ---
-title: Generative Models of Galactic Foregrounds
+title: Variational Autoencoder Model of Galactic Foregrounds
 subtitle: DustVAEder
 date: 2022-07-20T17:30:28.642Z
 summary: We develop a generative model of Galactic dust using a variational
@@ -27,6 +27,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
 
 
 An example of semantic interpolation is below 

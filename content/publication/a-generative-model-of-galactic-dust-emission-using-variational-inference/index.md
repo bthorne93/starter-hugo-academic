@@ -1,5 +1,5 @@
 ---
-title: A Generative Model of Galactic Dust Emission Using Variational Inference
+title: A Generative Model of Galactic Dust Emission Using Variational Autoencoders
 publication_types:
   - "2"
 authors:
