@@ -10,5 +10,6 @@ date: 2022-07-30
 
 type: course
 
+toc: true
 # Position of this page in the menu. Remove this option to sort alphabetically.
 ---
