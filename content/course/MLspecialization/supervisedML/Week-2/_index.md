@@ -13,3 +13,5 @@ type: book
 toc: true
 # Position of this page in the menu. Remove this option to sort alphabetically.
 ---
+
+Supervised Machine Learning course on Coursera.
