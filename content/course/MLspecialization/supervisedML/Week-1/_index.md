@@ -1,6 +1,6 @@
 ---
 # Page title
-title: Week 1: Introduction to Machine Learning
+title: "Week 1: Introduction to Machine Learning"
 
 # Page summary for search engines.
 summary: Notes on week 1
