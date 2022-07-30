@@ -8,7 +8,7 @@ summary: Notes on week 2
 # Date page published
 date: 2022-07-31
 
-type: book
+type: notes
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1

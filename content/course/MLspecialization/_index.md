@@ -11,7 +11,7 @@ summary: Notes from the Machine Learning Specialization on Coursera
 date: 2022-07-22
 
 # Book page type (do not modify).
-type: book
+type: notes
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
