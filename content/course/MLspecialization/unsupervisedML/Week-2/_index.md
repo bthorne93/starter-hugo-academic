@@ -8,7 +8,7 @@ summary: Notes on week 1
 # Date page published
 date: 2022-07-30
 
-type: course
+type: book
 
 toc: true
 # Position of this page in the menu. Remove this option to sort alphabetically.

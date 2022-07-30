@@ -8,7 +8,7 @@ summary: Notes on the first course in the Machine Learning Specialization
 # Date page published
 date: 2022-07-30
 
-type: course
+type: book
 
 toc: true
 
