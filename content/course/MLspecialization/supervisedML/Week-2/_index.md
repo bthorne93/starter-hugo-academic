@@ -1,9 +1,9 @@
 ---
 # Page title
-title: "Week 1: Introduction to Machine Learning"
+title: "Week 2: Introduction to Machine Learning"
 
 # Page summary for search engines.
-summary: Notes on week 1
+summary: Notes on week 2
 
 # Date page published
 date: 2022-07-30
