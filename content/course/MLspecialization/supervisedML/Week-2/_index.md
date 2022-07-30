@@ -10,8 +10,8 @@ date: 2022-07-30
 
 type: book
 
-toc: true
 # Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 1
 ---
 
 Supervised Machine Learning course on Coursera.
