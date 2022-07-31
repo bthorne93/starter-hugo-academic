@@ -46,8 +46,6 @@ To understand the application of regression, let's take a look at a specific exa
 
 If you would like to know the price of a house of a size not corresponding to an existing data point, one can apply learning algorithms to create a model of the data, and use this to predict new values. 
 
-![](house_prices2.jpg)
-
 > One of the topics in this class is figuring out when to fit a straight line, or a curved line, based on the data.
 
 ### Classification
@@ -60,8 +58,7 @@ One reason that this is different from regression is that we are trying to predi
 
 Classification problems may have multiple inputs, and multiple categories:
 
-![](breast_cancer.png)
-
+<img src="breast_cancer.jpg"  width="500" height="500">
 
 ## Unsupervised Learning
 
