@@ -34,22 +34,6 @@ item:
     organization_url: https://www.coursera.org
     title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     url: ''
-  - certificate_url: https://coursera.org/share/84670f03d36a5e758c57fbaa9d1380c4
-    date_end: ''
-    date_start: '2022-08-02'
-    description: Probabilistic Deep Learning with TensorFlow 2
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Probabilistic Deep Learning with TensorFlow 2
-    url: 
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
 
 design:
   columns: '2'
