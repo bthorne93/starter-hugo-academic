@@ -27,16 +27,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://coursera.org/share/01ecd69cea808bbe3147d9166b3f28f2
-    date_end: '2020-08-31'
-    date_start: ''
+    date_end: ''
+    date_start: '2020-08-31'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     url: ''
   - certificate_url: https://coursera.org/share/84670f03d36a5e758c57fbaa9d1380c4
-    date_end: '2022-08-02'
-    date_start: ''
+    date_end: ''
+    date_start: '2022-08-02'
     description: Probabilistic Deep Learning with TensorFlow 2
     organization: Coursera
     organization_url: https://www.coursera.org
