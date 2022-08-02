@@ -1,9 +1,9 @@
 ---
 # Page title
-title: Supervised Machine Learning
+title: Advanced Learning Algorithms
 
 # Page summary for search engines.
-summary: Notes on the first course in the Machine Learning Specialization
+summary: 
 
 # Date page published
 date: 2022-07-30

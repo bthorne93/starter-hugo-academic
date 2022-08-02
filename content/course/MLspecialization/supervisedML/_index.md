@@ -3,7 +3,7 @@
 title: Supervised Machine Learning
 
 # Page summary for search engines.
-summary: Notes on the first course in the Machine Learning Specialization
+summary: 
 
 # Date page published
 date: 2022-07-30
