@@ -50,6 +50,7 @@ Taking the MNIS digit recognition task, we have a binary classification problem.
 $$
 L(f(\mathbf x), y) - - y \log(f(\mathbf x)) - (1 - y)(1 - f(\mathbf x)).
 $$
+
 This loss function is used by doing: 
 ```python
 from tensorflow.keras.losses import BinaryCrossentropy
