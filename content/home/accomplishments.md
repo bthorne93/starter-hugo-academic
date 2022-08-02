@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Show this widget or not 
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 50
@@ -26,22 +26,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: https://coursera.org/share/01ecd69cea808bbe3147d9166b3f28f2
+    date_end: '2020-08-31'
+    date_start: ''
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  - certificate_url: https://coursera.org/share/84670f03d36a5e758c57fbaa9d1380c4
+    date_end: '2022-08-02'
+    date_start: ''
+    description: Probabilistic Deep Learning with TensorFlow 2
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Probabilistic Deep Learning with TensorFlow 2
+    url: 
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
