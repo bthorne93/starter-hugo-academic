@@ -13,7 +13,7 @@ active: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certificates'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -34,6 +34,14 @@ item:
     organization_url: https://www.coursera.org
     title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     url: ''
+  - certificate_url: https://coursera.org/share/84670f03d36a5e758c57fbaa9d1380c4
+    date_end: ''
+    date_start: '2022-08-02'
+    description: Probabilistic Deep Learning with TensorFlow 2
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Probabilistic Deep Learning with TensorFlow 2
+    url: 
 
 design:
   columns: '2'
