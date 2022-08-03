@@ -42,6 +42,14 @@ item:
     organization_url: https://www.coursera.org
     title: Probabilistic Deep Learning with TensorFlow 2
     url: 
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/VX78X9TSRMTG
+    date_end: ''
+    date_start: '2022-08-02'
+    description: Advanced Learning Algorithms
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Advanced Learning Algorithms
+    url: 
 
 design:
   columns: '2'
