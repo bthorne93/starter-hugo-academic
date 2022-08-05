@@ -26,13 +26,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://coursera.org/share/01ecd69cea808bbe3147d9166b3f28f2
+  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/39ZU4BG9GHVS
     date_end: ''
-    date_start: '2020-08-31'
-    description: ''
+    date_start: '2022-08-5'
+    description: 'Studiet modern machine learning concepts, including supervised learning (multiple linear regression, logistic regression, neural networks (deep learning), and decision trees) and unsupervised learning (clustering, dimensionality reduction, recommender systems).'
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+    title: Machine Learning Specialization
     url: ''
   - certificate_url: https://coursera.org/share/84670f03d36a5e758c57fbaa9d1380c4
     date_end: ''
@@ -41,14 +41,6 @@ item:
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Probabilistic Deep Learning with TensorFlow 2
-    url: 
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/VX78X9TSRMTG
-    date_end: ''
-    date_start: '2022-08-02'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Advanced Learning Algorithms
     url: 
 
 design:
