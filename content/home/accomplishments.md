@@ -28,7 +28,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/39ZU4BG9GHVS
     date_end: ''
-    date_start: '2022-08-5'
+    date_start: '2022-08-05'
     description: 'Studiet modern machine learning concepts, including supervised learning (multiple linear regression, logistic regression, neural networks (deep learning), and decision trees) and unsupervised learning (clustering, dimensionality reduction, recommender systems).'
     organization: Coursera
     organization_url: https://www.coursera.org
