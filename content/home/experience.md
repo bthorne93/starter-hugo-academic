@@ -32,7 +32,7 @@ experience:
     description: |2-
         I am currently a postdoc in Professor Lloyd Knox's group at UC Davis. I am a member of the *South Pole Telescope* (*SPT*) and *BICEP / Keck* (*BK*) collaborations. Some of my projects have been:
         
-        * Developed a heirarchical Bayesian analysis pipeline for the analysis *SPT* and *BK* data (using Julia, `CUDA.jl`, and autodiff). 
+        * Developed a hierarchical Bayesian analysis pipeline for the analysis *SPT* and *BK* data (using Julia, `CUDA.jl`, and autodiff). 
         * Built a variational autoencoder model of Galactic foregrounds to capture non-Gaussian behavior (using Python and Tensorflow) [[1]](publication/a-generative-model-of-galactic-dust-emission-using-variational-inference).
         * Developed `v3.0` of [`PySM`](project/example) in collaboration with the Pan-Experiment Galactic science group. Targeted development for performance in HPC environments, and implemented new foreground models using data released since 2016 `v2.0` [[2]](publication/the-python-sky-model-3-software).
 
