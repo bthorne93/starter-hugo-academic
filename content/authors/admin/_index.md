@@ -45,6 +45,6 @@ highlight_name: true
 title: Benjamin Thorne
 email: ""
 ---
-My name is Benjamin Thorne, I am a computational astrophysicist at the University of California, Davis.  I am interested in applying modern machine learning techniques, and advanced statistical methods, to large astrophysical datasets.
+I am a computational astrophysicist at the University of California, Davis. I am interested in applying modern machine learning techniques, and advanced statistical methods, to large astrophysical datasets.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume-Thorne.pdf" "newtab" >}}resumé{{< /staticref >}}.
